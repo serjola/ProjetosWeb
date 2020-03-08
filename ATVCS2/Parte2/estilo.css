@@ -1,0 +1,54 @@
+
+.bloquin{
+    width: 120px;
+    height: 150px;
+    margin-top: 0px;
+    padding-right: 30px;
+    padding-left: 30px;
+    border-style: solid;
+}
+button{
+    width: 120px;
+}
+td{
+    text-align: center;
+    font-family: Qanelas Soft DEMO UltraLight;
+    font-weight: bold;
+}
+#divnome{
+    float: right;
+    width: 20%;
+    background-color: orange;
+}
+#divdata{
+    float: left;
+    width: 80%;
+    background-color: orange;
+}
+#center{
+ background-color: whitesmoke;
+ width: 70%;
+ margin: 0 auto;
+}
+body{
+    background-image: url(./img/bgsite.jpg);
+}
+h2{
+    font-family: sans-serif;
+}
+
+#ad{
+    width: 70%;;
+    margin: 0 auto;
+    text-align: center;
+    font-family:Qanelas Soft DEMO UltraLight;
+    background-color: orange;
+    font-size: 48px;
+    clear: both;
+    font-weight: bold;
+}
+button{
+    background-color: darkcyan;
+    border-radius:7px 7px 7px 7px;
+    width: 150px;
+}
